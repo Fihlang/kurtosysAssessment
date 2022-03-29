@@ -16,7 +16,7 @@ public class TestBase {
 
     private String configPropertiesPath= "/src/main/java/com/javatestclient/config/config.properties";
     public static WebDriver driver;
-    private static Properties prop;
+    public static Properties prop;
 
    public TestBase(){
 
